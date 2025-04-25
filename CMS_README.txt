@@ -1,0 +1,1 @@
+This project is intended to work with a Headless CMS like Sanity, Strapi, or Contentful.
